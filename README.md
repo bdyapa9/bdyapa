@@ -1,18 +1,16 @@
-### Hey! I'm Krishna 👋
+### Hey! I'm Bhavya 👋
 
 Welcome to my GitHub profile :)
-I'm Krishna, a data analyst in energy field currently living in Vancouver, Canada. Although I hold a petroleum engineering degree but that doesn't stop me exploring other datasets and draw insights.
+I'm Krishna, a data analyst. Although I hold a petroleum engineering degree but that doesn't stop me exploring other datasets and draw insights.
 
-<img align="right" width="400" src="https://i.postimg.cc/xCv5JZfV/analyst.png" alt="Krishna1594"
+<img align="right" width="400" src="https://i.postimg.cc/xCv5JZfV/analyst.png" alt="Bhavya135"
 />
 <br>
 
-- 💬 Ask me about Oil & Gas and Data.
-- 🔭 I’m also an astrophotographer. Read my blogs about my meetings with celestials.
 - 🌱 I’m currently diving deeper into MySQL and Tableau.
-- 😄 Pronouns: He/Him.
+- 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I can hold my breath up to 1 minute 43 seconds.
-- 🎮 I am a PC gamer.
+  .
 
 This is where I keep my code and projects. Feel free to look around and contact me if you have questions.
  
@@ -35,9 +33,8 @@ This is where I keep my code and projects. Feel free to look around and contact 
   <img src="https://i.postimg.cc/sXQGjN8d/Tableau-Icon.png" alt="Krishna1594"/>
  </a>
   </a>
- <a href="https://steamcommunity.com/profiles/76561198837024807/" target="_blank">
-  <img src="https://i.postimg.cc/y6RnnQNb/gaming.png" alt="coding"/>
- </a>
+ 
+
  
 
 
