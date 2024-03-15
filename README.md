@@ -1,7 +1,7 @@
 ### Hey! I'm Bhavya 👋
 
 Welcome to my GitHub profile :)
-I'm Krishna, a data analyst. Although I hold a petroleum engineering degree but that doesn't stop me exploring other datasets and draw insights.
+I'm Bhavya, a data analyst. I am a graduate Computer Science Engineer who is curious in exploring datasets and draw insights.
 
 <img align="right" width="400" src="https://i.postimg.cc/xCv5JZfV/analyst.png" alt="Bhavya135"
 />
