@@ -19,18 +19,18 @@ This is where I keep my code and projects. Feel free to look around and contact 
 <p align="center"> 🤝 Connect with me on:
 <p align="center">
  <a href="https://krishna1594.github.io" target="blank">
-  <img src="https://i.postimg.cc/tTSpYqKY/world-wide-web-6471842.png" alt="Krishna1594" />
+  <img src="https://i.postimg.cc/tTSpYqKY/world-wide-web-6471842.png" alt="bdyapa9" />
  </a>
  </a>
- <a href="https://linkedin.com/in/krishna-nischal-bharatula" target="_blank">
-  <img src="https://i.postimg.cc/YCbncvYG/linked-In-icon.png" alt="Krishna1594"/>
+ <a href="https://linkedin.com/in/bhavya-reddy-dyapa" target="_blank">
+  <img src="https://i.postimg.cc/YCbncvYG/linked-In-icon.png" alt="bdyapa9"/>
  </a>
  </a>
  <a href="https://medium.com/@krishnanischal" target="_blank">
-  <img src="https://i.postimg.cc/9M6VG8fh/medium-logo-icon-189268.png" alt="Krishna1594"/>
+  <img src="https://i.postimg.cc/9M6VG8fh/medium-logo-icon-189268.png" alt="bdyapa9"/>
  </a>
  <a href="https://public.tableau.com/app/profile/krishna.n.bharatula/vizzes" target="_blank">
-  <img src="https://i.postimg.cc/sXQGjN8d/Tableau-Icon.png" alt="Krishna1594"/>
+  <img src="https://i.postimg.cc/sXQGjN8d/Tableau-Icon.png" alt="bdyapa9"/>
  </a>
   </a>
  
@@ -41,7 +41,7 @@ This is where I keep my code and projects. Feel free to look around and contact 
 <p align="center"> My Skills
  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=r,matlab,mysql" />
+<img src="https://skillicons.dev/icons?i= mysql" />
 <img  src="https://i.postimg.cc/d1YDFV8d/excel.png" />
 <img  src="https://i.postimg.cc/hGqKz3fR/tableau.png" />
  </a>
